@@ -1,1 +1,1 @@
-# phonebook-app-frontend
+# phonebook-app-frontend Forntend to the phonebook application developed using React. Full app https://peaceful-gorge-94904.herokuapp.com/
